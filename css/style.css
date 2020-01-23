@@ -1,0 +1,29 @@
+/* body {
+  background-color: rgb(202, 235, 247);
+}
+
+.button {
+  background-color: rgb(38, 23, 126);
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: green;
+} */
+
+.low-usage {
+  color: green;
+}
+
+.medium-usage {
+  color: black;
+}
+
+.high-usage {
+  color: red;
+}
